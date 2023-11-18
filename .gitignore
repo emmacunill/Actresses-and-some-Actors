@@ -1,2 +1,3 @@
 posibles_datasets
 .DS_Store
+__pycache__

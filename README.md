@@ -7,9 +7,9 @@ Welcome to the comprehensive exploration of the dynamic world of actors, actress
 ## Table of Contents
 
 1. [Workflow](#Workflow)
-2. [Data Adquisition](#data-adquisition)
-3. [Exploration & Hypotheses](#exploration-&-hypotheses)
-4. [Conclusions](#concllusions)
+2. [Data Adquisition](#Data-Adquisition)
+3. [Exploration & Hypotheses](#Exploration-&-Hypotheses)
+4. [Conclusions](#Concllusions)
 
 
 ## Workflow

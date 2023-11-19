@@ -22,7 +22,7 @@ Following the cleaning phase, the data frames were seamlessly integrated into an
 
 Utilizing Python, SQL queries were executed to explore questions about genres, revenue, actor activity, and awards.
 
-3. Visualization: Tableau. 
+3. Visualization: [Tableau](https://public.tableau.com/views/ActorsActresses/ActorsActresses?:language=es-ES&:display_count=n&:origin=viz_share_link). 
 
 The insights derived from the analysis were brought to life through visualizations providing clear insights and support to the findings.
 

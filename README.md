@@ -1,4 +1,4 @@
-# Actresses-&-some-Actors
+# Actresses & some Actors
 
 ## Overview
 
@@ -9,13 +9,7 @@ Welcome to the comprehensive exploration of the dynamic world of actors, actress
 1. [Workflow](#Workflow)
 2. [Data Adquisition](#data-adquisition)
 3. [Exploration & Hypotheses](#exploration-&-hypotheses)
-4. [Heat Maps Analysis](#heat-maps-analysis)
-5. [Airport and Transport Comparison](#airport-and-transport-comparison)
-6. [Final City Selection](#final-city-selection)
-7. [Choosing the Neighborhood](#choosing-the-neighborhood)
-8. [Requirements for Various Categories](#requirements-for-various-categories)
-9. [Final Decision](#final-decision)
-10. [Conclusions](#conclusions)
+4. [Conclusions](#concllusions)
 
 
 ## Workflow
@@ -50,9 +44,36 @@ The project is build from 5 different Datasaes from Kaggle.
 
 ## Exploration & Hypotheses
 
+**General Overview**
+1. Top 5 Best Rated Genres:
+Identified and scrutinized genres with higher ratings.
+2. Most Repeated Genres:
+Explored the recurring themes in cinema, shedding light on why Drama, Comedy, and Action/Adventure dominate the scene.
+3. Revenue / Genres:
+Investigated the financial landscape to decipher whether high production volumes correlate with substantial revenue.
 
+![General View](https://github.com/emmacunill/Actresses-and-some-Actors/blob/main/images/General%20Overview.png?raw=true)
 
+**Decoding Actor and Actress Dynamics**
+
+4. Most Active Actors/Actresses:
+Unveiled the powerhouses driving the industry forward, identifying the most active actors and actresses.
+5. Correlation Between Activity and Acting Skill:
+Explored the question of whether prolific activity aligns with stellar acting prowess.
+6. Are the Most Active Actors the Most Awarded?:
+Examined the correlation between activity levels and the awards actors and actresses receive.
+
+![Actors & Awards](https://github.com/emmacunill/Actresses-and-some-Actors/blob/main/images/Actors%20&%20Awards.png?raw=true)
+
+**Global Perspectives**
+
+7. Actors' Nationalities:
+Traced the origins of actors.
+8. Film Industry Evolution:
+Traveled through time to understand how the film industry has evolved, uncovering trends in production volume.
+
+![Location](https://github.com/emmacunill/Actresses-and-some-Actors/blob/main/images/Location.png?raw=true)
 
 ## Conclusions
 
-In conclusion, our exploration unveils a flourishing film industry, marked by a surge in production and escalating revenue. The current cinematic landscape reflects not only quantitative growth but also qualitative enrichment. The industry's ability to adapt to evolving tastes and incorporate diverse narratives is evident in the global tapestry of talent we've uncovered. Financial prosperity underscores a solid foundation for creativity and innovation, fostering an optimistic outlook. The increasing number of films and revenue highs paint a picture of a field in constant growth. As technology and audience engagement advance, the film industry stands poised for a future filled with possibilities. This project captures the vibrancy and resilience of an industry that continues to captivate audiences and redefine storytelling on a global scale.
+In conclusion, our exploration unveils a flourishing film industry, marked by a surge in production and escalating revenue. The current cinematic landscape specially in the United States, reflects not only quantitative growth but also qualitative enrichment. The industry's ability to adapt to evolving tastes and incorporate diverse narratives is evident in the global tapestry of talent we've uncovered. Financial prosperity underscores a solid foundation for creativity and innovation, fostering an optimistic outlook. The increasing number of films and revenue highs paint a picture of a field in constant growth. As technology and audience engagement advance, the film industry stands poised for a future filled with possibilities. This project captures the vibrancy and resilience of an industry that continues to captivate audiences and redefine storytelling on a global scale.
